@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>Ejemplo de RSS</title>
+    <link>http://www.ejemplo.com/rss</link>
+    <description>Este es un ejemplo de documento RSS.</description>
+    <item>
+      <title>Noticia 1</title>
+      <link>http://www.ejemplo.com/noticia1</link>
+      <description>Esta es la descripción de la Noticia 1.</description>
+      <pubDate>Lun, 26 Abr 2023 12:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Noticia 2</title>
+      <link>http://www.ejemplo.com/noticia2</link>
+      <description>Esta es la descripción de la Noticia 2.</description>
+      <pubDate>Lun, 26 Abr 2023 12:30:00 GMT</pubDate>
+    </item>
+  </channel>
+</rss>
